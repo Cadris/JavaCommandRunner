@@ -1,4 +1,4 @@
 # JavaCommandRunner
 A Maven Java Program for Running Terminal or Batch Commands
 
-Status: UNDER DEVELOPMENT
+**_Status_**: **UNDER DEVELOPMENT**
