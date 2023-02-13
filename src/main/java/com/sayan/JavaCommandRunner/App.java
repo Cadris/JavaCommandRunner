@@ -15,6 +15,9 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
+        System.out.println(logger.getLevel());
+        logger.debug("debug log");
+        logger.info("info log");
         logger.error("error log");
     }
 }
